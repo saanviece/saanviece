@@ -19,3 +19,16 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+<hr>
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I'm an Electronics & Communication Engineering student focused on
+  embedded systems, firmware, and hardware development.
+  <br><br>
+  Currently exploring microcontrollers, RTOS, embedded Linux,
+  and real-world hardware-software integration.
+  <br><br>
+  🛰️ Team Lead — CubeSat Electrical Power System
+</p>
