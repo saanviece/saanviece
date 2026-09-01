@@ -30,5 +30,23 @@
   Currently exploring microcontrollers, RTOS, embedded Linux,
   and real-world hardware-software integration.
   <br><br>
+  
   🛰️ Team Lead — CubeSat Electrical Power System
+</p>
+<hr>
+
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <b>Languages</b><br>
+  C · Embedded C · Assembly · Python
+</p>
+
+<p align="center">
+  <b>Embedded Systems</b><br>
+  AVR · RTOS · Embedded Linux
+</p>
+
+<p align="center">
+  <b>Tools</b><br>
+  KiCad · Git · GitHub
 </p>
