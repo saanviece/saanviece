@@ -50,3 +50,32 @@
   <b>Tools</b><br>
   KiCad · Git · GitHub
 </p>
+<hr>
+
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <b>🛰️ ICARUS CubeSat — Electrical Power System</b><br>
+  Team Lead · Power Systems · Embedded Hardware
+  <br><br>
+  Leading the design of the EPS for a 1U CubeSat, covering battery management,
+  power regulation, subsystem interfacing, and KiCad-based power architecture.
+</p>
+
+<p align="center">
+  <b>🌎 Portable Seismograph System</b><br>
+  Project Head · Embedded Systems · Sensor Integration
+  <br><br>
+  Leading a low-power embedded monitoring system for real-time seismic activity
+  detection, focusing on sensor interfacing, wireless communication, system
+  integration, and power optimization.
+</p>
+
+<p align="center">
+  <b>🤖 AI-enabled Robotic Arm</b><br>
+  Hardware Systems · Raspberry Pi · Sensor Integration
+  <br><br>
+  Developed an interactive robotic arm integrating vision, voice commands,
+  physiological sensors, and servo control for real-time human-machine
+  interaction.
+</p>
