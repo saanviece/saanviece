@@ -79,3 +79,25 @@
   physiological sensors, and servo control for real-time human-machine
   interaction.
 </p>
+<hr>
+
+<h2 align="center">Experience & Leadership</h2>
+
+<p align="center">
+  <b>Electronics Intern — Roberon Technologies</b><br>
+  Robotics & Drone Development · Embedded Electronics · Hardware Integration
+</p>
+
+<p align="center">
+  <b>President — IGNITE, Innovation Club</b><br>
+  Manipal Institute of Technology · Technical Events · Industry Connect
+</p>
+<hr>
+
+<h2 align="center">Engineering Focus</h2>
+
+<p align="center">
+  Embedded Systems · Firmware · Hardware Integration
+  <br>
+  RTOS · Embedded Linux · Microcontrollers · Power Systems
+</p>
